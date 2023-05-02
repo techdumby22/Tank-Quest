@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fa-moon {
+	color:#003EE7;
+}
+
+.fa-sun {
+	color:#A57C00;
+}
+
+.toggle.ios, .toggle-on.ios, .toggle-off.ios { border-radius: 20rem; }
+.toggle.ios .toggle-handle { border-radius: 20rem; }
+
+
+.nav-item:hover .nav-link:hover,
+.navbar-custom:hover .nav-item:hover {
+    color: #ffffff;
+    background-color: red;
+}
+
+.dropdown-item:focus, .dropdown-item:hover{
+    color: #ffffff !important;
+    background-color: red !important;
+}
+
+.toggle-handle{
+    background-color: white !important;
+}
+[data-theme="dark"] .toggle-handle{
+    background-color:#343a40 !important;
+}
+.btn.toggle {
+    border-color: white !important;
+}
+
+/* body.darks {
+    background-color: black;
+    color: #ffffff;
+} */
+
+#video2 {align-content: center;}
+
+#title2 {
+
+    text-align: left;
+    position: relative;
+    margin-left: 2%;
+    margin-top: 4%;
+    color: rgb(28, 28, 207);
+
+}
+
+#body2 {padding: 1%;
+    margin-left:10%; 
+    margin-right:10%;
+    font-size: larger;
+   justify-content: left;
+}
+
+.DiscordQR {padding: 25px;img;
+			align-content: 20px right;	}
+
+.New-Development {}
+
+#title2 { margin-bottom: 5%; }
